@@ -19,8 +19,6 @@ public class MaxProfit {
 class MaxProfitTest {
     public static void main(String[] args) {
 
-        MaxProfit sol = new MaxProfit();
-
         int[] prices1 = { 7, 1, 5, 3, 6, 4 };
         int expected1 = 5;
         runTest(prices1, expected1, "Test 1");
