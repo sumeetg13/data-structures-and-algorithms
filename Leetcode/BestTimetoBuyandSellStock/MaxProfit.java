@@ -1,4 +1,3 @@
-
 public class MaxProfit {
     public int maxProfit(int[] prices) {
         int minPrice = Integer.MAX_VALUE;
