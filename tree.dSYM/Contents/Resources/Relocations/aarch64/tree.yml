@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sumeetgupta/Learning/data-structures-and-algorithms/tree'
+relocations:     []
+...
